@@ -1,0 +1,45 @@
+# Project Outline:
+
+**What type of project will you work on? Will it be a web app, mobile app, or something else? What will your project do?**
+
+We will be developing a web application that functions as a project management tool specifically tailored for software development teams. This web app will serve as a central hub for organizing tasks, tracking progress, and allowing effective collaboration within their teams throughout the software development lifecycle. The primary goal for this application is to help teams effectively manage their workflow, from the early prototyping stages all the way to the final product presentations.Key features will include the ability to create tasks, assignment tracking, and real-time updates, allowing team members to stay aligned and on schedule. These features will also help teams have smoother transitions between different phases of development and improve efficient communication across the team, minimizing miscommunication and delays. The application will be built incorporating interactive web technologies, including HTML, CSS, and TypeScript, which will enable smooth user interactions and a responsive design that has the ability to automatically adapt effortlessly to different screen sizes or devices. Additionally, this tool will include customizable project boards, which can be tailored to fit different team structures or project requirements. Team messaging capabilities will also be integrated, which aids in quick and easy communication between team members, while visual progress tracking will make it easier for teams to keep track of key milestones, deadlines, or overall team performance in real-time. All of these tools will also be within an accessible and user-friendly interface, making this application useful, but also ensuring new users can quickly understand the structure of the application. An important focus will be on the needs of software development teams. This project aims to streamline the process and provide a structured, organized platform to support both individual and collaborative work while also improving productivity, making it easier for teams to deliver high-quality software in an efficient amount of time.
+
+**Why did you choose to work on this project? What motivates you to choose this topic?**
+
+I chose to work on this project because of my interest in web design and the common challenges of project alignment and progress monitoring. It can often get difficult to keep track of tasks, stay aligned with team goals, and maintain clear communication with managers and teammates, especially when you have to deal with many projects or work with large teams. A lack of centralization often leads to confusion, missed deadlines, and reduced productivity. By creating a centralized platform for project management, we aim to address these common challenges. Developing a tool that combines ease of use with essential features will allow users to focus on their tasks rather than worrying about organizational issues, ultimately improving productivity along with team cohesion. This motivation stems from a desire to provide a comprehensive, efficient solution that simplifies project management for software developers. Ultimately, I hope this tool will help teams work more efficiently and deliver high-quality software with fewer obstacles.
+
+**Who is the target audience of this app? Be specific about the demographic (age/occupation), and the type of devices they might use.**
+
+The target audience for this project management app spans a broad range of individuals, from students to professionals working in fields like software development, consulting, business analytics, and other roles that require collaborative work. The primary demographic is individuals between the ages of 18 and 40 who are comfortable with technology and work in fast-paced, team-oriented environments. These users will likely be responsible for managing multiple tasks or projects simultaneously, which can make organization and communication challenging without the right tools.
+
+The app will be designed as a web-based platform, primarily intended for use on desktop and laptop computers. This ensures it will be compatible with office workstations, personal computers, or monitors commonly used in professional settings. However, to accommodate the increasingly mobile nature of modern work, the app will also offer secondary access via tablets and mobile browsers, ensuring flexibility for team members who may need to manage tasks while on the go.
+
+One of the key features of the app will be notifications, which will be pushed to users' mobile devices, including phones and smartwatches. This will keep users informed about new tasks, upcoming deadlines, or time-sensitive messages in team chats, making it easy to stay on top of important updates no matter where they are. This mobile functionality ensures that team members can remain connected and responsive even when they're away from their computers.
+
+Ultimately, this tool will benefit anyone who needs a clear, organized approach to managing multi-step workflows. It is particularly useful for engineers, analysts, consultants, and other professionals who require real-time access to task tracking, deadlines, and collaboration tools in order to stay productive and aligned with their teams. The app's comprehensive features will streamline their work processes and support greater team efficiency.
+
+**What problem does your project hope to tackle? How will your final product help solve this problem? How will the target audience you specified above benefit from your app?**
+
+This project aims to address common challenges in project management, particularly in the context of software development. Teams often face issues such as miscommunication, lack of organization, and alignment difficulties, which can lead to delays, inefficiencies, and missed deadlines. In software development, where collaboration and precision are crucial, these challenges can be even more pronounced, hindering productivity and overall project success. To address these pain points, my web app will provide an integrated space for task management, team communication, and progress tracking, helping to streamline workflows and keep everyone on the same page.
+
+By offering all essential features within a single platform, users will no longer need to juggle multiple tools or switch between different apps to manage their work. This will reduce friction and improve focus, as team members can easily access tasks, updates, and project information in one central location. The app will also enable real-time communication and provide visibility into individual and team progress, reducing misunderstandings and ensuring everyone is aligned with the project’s goals and deadlines.
+
+Another key benefit of the app will be its ability to track progress visually, allowing teams to monitor milestones, deadlines, and project health at a glance. This feature will help prevent bottlenecks and ensure that tasks are completed on time, while also giving managers and team members a clear overview of project status. By consolidating task management, communication, and progress tracking into one intuitive platform, the app will simplify the project management process and enhance team collaboration.
+
+Ultimately, this web app will increase the efficiency of the software development process, reduce the risk of project delays, and improve team cohesion, leading to faster, more successful project outcomes.
+
+**Identify the programming language(s) you will need to learn in order to work on this project. Provide a link to the official documentation for this programming language. Also, provide 3 free, easy-to-access resources that you can use to learn this programming language.**
+
+We will primarily be using HTML, CSS, and JavaScript for this project. JavaScript, in particular, will be essential for adding interactivity and functionality to the web application.
+Official Documentation: [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)]
+Learning Resources:
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+[JavaScript Course by freeCodeCamp](https://www.w3schools.com/html/)
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+**Identify the tools, frameworks, etc., you might need to learn to work on this project. Please provide a link to each.**
+
+To enhance the structure and maintainability of the app, I plan to use the following tools and frameworks:
+
+React (for building UI components): [React Documentation](https://react.dev/reference/react)
+TypeScript (for improved JavaScript development): [TypeScript Documentation](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
