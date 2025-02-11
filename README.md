@@ -6,11 +6,17 @@ I am a sophomore double majoring in Computer Science B.S. and Data Science B.A. 
 * COMP 210 (Data Structures and Analysis using Java)
 * COMP 283 (Discrete Structures)
 * COMP 290 (Essential Tools for Computer Science learning things such as Git and Docker)
+* COMP 211 (System Programming Fundamental)
+* COMP 301 (Structure/Organize Own Code)
+* DATA 110 (Introduction to Data Science)
+* DATA 130 (Critical Data Literacy)
+* DATA 140 (Introduction to Data Structures and Management)
+* MATH 210 (Math Tools for Data Science)
 ### Tools and Programming Languages
 ~ Python
-~Java 
-~Git
-~Docker
+~ Java 
+~ Git
+~ Docker
 <!--
 **psiya/psiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
